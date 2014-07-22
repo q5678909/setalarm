@@ -28,6 +28,8 @@ public class MainActivity extends Activity implements OnClickListener{
 	Button b2;
 	Button b3;
 	Button b4;
+	Button b5;
+	Button b6;
 	TextView t1;
 	TextView t2;
 	int period = 30;
