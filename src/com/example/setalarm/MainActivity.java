@@ -31,7 +31,7 @@ public class MainActivity extends Activity implements OnClickListener{
 	Button b9_issue53_continues;
 	TextView t1;
 	TextView t2;
-
+	int i = 12;
 	int period = 30;
 	int count = 0;
 	BroadcastReceiver receiver;
