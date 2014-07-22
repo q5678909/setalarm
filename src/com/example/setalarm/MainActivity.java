@@ -30,6 +30,9 @@ public class MainActivity extends Activity implements OnClickListener{
 	Button b4;
 	Button b5;
 	Button b6;
+	Button b7_issue53;
+	Button b8_issue53;
+	Button b9_issue53_continues;
 	TextView t1;
 	TextView t2;
 	TextView t3_hotfix;
