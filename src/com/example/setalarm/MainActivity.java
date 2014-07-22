@@ -34,6 +34,9 @@ public class MainActivity extends Activity implements OnClickListener{
 	TextView t2;
 	TextView t3_hotfix223;
 	TextView t4_hotfix232;
+	TextView t5566;
+	TextView t7788;
+
 	int period = 30;
 	int count = 0;
 	BroadcastReceiver receiver;
