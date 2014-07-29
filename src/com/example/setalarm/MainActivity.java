@@ -26,14 +26,19 @@ public class MainActivity extends Activity implements OnClickListener{
 
 	Button b1;
 	Button b2;
+
 	Button b7_issue5345;
 	Button b8_issue5345;
 	Button b9_issue53_continues;
 	TextView t1;
 	TextView t2;
-
 	int i = 12;
 	TextView t3_hotfix;
+	TextView t3_hotfix223;
+	TextView t4_hotfix232;
+	TextView t5566;
+	TextView t7788;
+	int g;
 	int period = 30;
 	int count = 0;
 	BroadcastReceiver receiver;
