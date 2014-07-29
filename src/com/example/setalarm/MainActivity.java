@@ -41,7 +41,8 @@ public class MainActivity extends Activity implements OnClickListener{
 	int g3;
 	int g4;
 	int period = 30;
-	int count = 5566;
+	int count = 55667788;
+
 	BroadcastReceiver receiver;
 	AlarmManager manager;
 	PendingIntent pintent;
